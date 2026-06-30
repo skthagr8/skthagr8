@@ -89,9 +89,8 @@ I'm a Computer Science student passionate about building high-performance system
 - Launching a systems software startup ---
  
 ## Connect With Me
- 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+
+- 📧 **Direct Contact:** samuel.kahiga@strathmore.edu
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
