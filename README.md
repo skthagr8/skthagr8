@@ -9,8 +9,7 @@ I'm a Computer Science student passionate about building high-performance system
 - 🔭 **Current Focus:** Building high-performance backend systems, AI infrastructure, networking software, and distributed databases.
 - 🌱 **Learning & Exploration:** Advanced C++, Linux systems programming, cloud networking, distributed systems, machine learning infrastructure, and Java backend development.
 - ⚡ **Core Interests:** Systems Programming • Networking • Distributed Systems • Database Engineering • AI Infrastructure • Backend Development • Performance Optimization
- 
----
+
  
 ## Technical Ecosystem
  
