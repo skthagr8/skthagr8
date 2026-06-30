@@ -1,97 +1,208 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
-</p>
- 
-# Hi there, I'm Samuel Yashin 👋
- 
-I'm a Computer Science student passionate about building high-performance systems software from the ground up. My interests span networking, distributed systems, databases, AI infrastructure, and low-level C/C++ engineering, where I enjoy solving complex performance and scalability challenges.
-
-- 🔭 **Current Focus:** Building high-performance backend systems, AI infrastructure, networking software, and distributed databases.
-- 🌱 **Learning & Exploration:** Advanced C++, Linux systems programming, cloud networking, distributed systems, machine learning infrastructure, and Java backend development.
-- ⚡ **Core Interests:** Systems Programming • Networking • Distributed Systems • Database Engineering • AI Infrastructure • Backend Development • Performance Optimization
-
- 
-## Technical Ecosystem
- 
-## 🚀 Programming Languages
-
-<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=220&section=header&text=Samuel%20Yashin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Programming%20•%20Backend%20Engineering%20•%20Distributed%20Systems&descAlignY=60&descColor=67e8f9"/>
 </p>
 
-## ⚙️ Systems & Backend 
+<h1 align="center">Hi, I'm Samuel Yashin 👋</h1>
 
-<p> 
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
- <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> 
- <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/> 
+<p align="center">
+Computer Science Student • Systems Software Engineer in Progress
 </p>
 
-## 🌐 Networking & Cloud 
-<p> 
- <img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge"/> 
- <img src="https://img.shields.io/badge/UDP-2C5364?style=for-the-badge"/> 
- <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-</p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skthagr8&style=for-the-badge"/>
+</p>
 
-## 🤖 AI & Machine Learning 
-<p> 
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> 
- <img src="https://img.shields.io/badge/LibTorch-E34F26?style=for-the-badge"/> 
-</p> 
+---
+
+# 💡 About Me
+
+I'm a Computer Science student passionate about designing software that is fast, reliable, and scalable.
+
+My primary interests include:
+
+- ⚙️ Systems Programming
+- 🌐 Networking
+- 🗄 Database Engineering
+- ☁️ Distributed Systems
+- 🤖 AI Infrastructure
+- 🚀 Backend Engineering
+
+I enjoy understanding systems from first principles and building them from the ground up using modern C++, Java, Python, Linux, and SQL.
+
+---
+
+# 🚀 Currently Building
+
+- 🎬 High-performance Java Movie Ticketing Platform
+- 🤖 AI Compliance Auditor for Clinical Research
+- 🗄 High-performance Database Systems
+- 🌐 Networking Experiments using C++
+- 📡 IoT Sensor Monitoring Platform
+
+---
+
+# 🏗 Engineering Philosophy
+
+> Build software that is:
+
+- Fast
+- Reliable
+- Maintainable
+- Observable
+- Scalable
+
+---
+
+# 🚀 Technical Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+</p>
+
+## 🖥 Systems & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,postgres,mysql,sqlite,docker"/>
+</p>
+
+<img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/>
+
+---
+
+## 🌐 Backend & Networking
+
+<p>
+
+<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UDP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/LibTorch-E34F26?style=for-the-badge"/>
+
+---
 
 ## 🛠 Tools
-<p> 
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
- <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
- <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> 
-</p> ---
 
+<p>
 
-### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
- 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
+
+</p>
+
 ---
- 
-# 🚀 Featured Projects 
-- 🗄 High-Performance In-Memory Database
-- - 🌐 Distributed Networking Systems
-- - ⚡ Vector Database & AI Infrastructure
-- - 🤖 AI Compliance Auditor for Clinical Research
-- - 🎬 Java Movie Ticketing System
-- - 📡 IoT Sensor Monitoring Platform
-- - 🔒 Secure Network Services
-            
- --- # 📊 GitHub Statistics
-<p align="center"> 
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=skthagr8&show_icons=true&theme=tokyonight&hide_border=true"/> 
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skthagr8&layout=compact&theme=tokyonight&hide_border=true"/> 
-</p> 
 
-<p align="center"> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=skthagr8&theme=tokyonight&hide_border=true"/> 
-</p> 
+# ⭐ Featured Projects
 
- <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skthagr8&theme=tokyo-night&hide_border=true"/> 
- </p> ---
+## 🗄 High-Performance In-Memory Database
 
- # 📈 What I'm Working Towards 
-- Building high-performance systems software in C/C++
-- Designing distributed databases and storage engines
-- Developing cloud-native networking software
-- Creating AI infrastructure for next-generation applications
-- Contributing to open-source systems projects
-- Launching a systems software startup ---
- 
-## Connect With Me
+Building an in-memory database focused on low-latency storage, efficient indexing, and cache-friendly data structures.
 
-- 📧 **Direct Contact:** samuel.kahiga@strathmore.edu
- 
+---
+
+## 🌐 Distributed Networking Systems
+
+Experiments in asynchronous networking, messaging systems, and scalable communication architectures.
+
+---
+
+## 🤖 AI Compliance Auditor
+
+Clinical research compliance platform leveraging AI for automated document analysis and regulatory support.
+
+---
+
+## 🎬 Java Movie Ticketing Platform
+
+Backend-focused ticket reservation platform emphasizing clean architecture, performance, and maintainability.
+
+---
+
+## 📡 IoT Sensor Monitoring Platform
+
+MQTT-powered IoT monitoring platform with real-time sensor data processing.
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=skthagr8&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skthagr8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skthagr8&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skthagr8&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Build advanced Java backend applications
+- 🔄 Develop a high-performance database engine
+- 🔄 Build networking software in C++
+- 🔄 Explore distributed systems
+- 🔄 Publish open-source systems libraries
+- 🎯 Launch AI infrastructure projects
+
+---
+
+# 🌍 Open Source Goals
+
+I enjoy collaborating on projects related to:
+
+- Systems Programming
+- Networking
+- Databases
+- Distributed Systems
+- Backend Engineering
+- AI Infrastructure
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+samuel.kahiga@strathmore.edu
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer"/>
+
 </p>
